@@ -1,3 +1,3 @@
 # Test
 test repos
-practice in git cammands and their demonstration
+practice with git cammands and their demonstration
